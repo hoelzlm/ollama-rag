@@ -1,4 +1,5 @@
 /venv
-/data/*
-/chroma/*
+/data/*.pdf
+/chroma/*.sqlite3
+/chroma/*/*.bin
 */__pycache__/
